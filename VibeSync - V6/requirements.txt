@@ -1,0 +1,13 @@
+kivy
+deepface
+pynput
+windows-toasts
+python-dotenv
+requests
+matplotlib
+deepface
+windows-toasts
+pynput
+python-dotenv
+requests
+pywin32

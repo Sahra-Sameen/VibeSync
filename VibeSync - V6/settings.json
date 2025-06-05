@@ -1,0 +1,5 @@
+{
+    "monitoring_schedule": "Every 30 seconds",
+    "notification_theme": "Dark",
+    "auto_start": "Disable"
+}

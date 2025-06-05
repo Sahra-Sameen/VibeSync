@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-22 00:53:11",
+    "emotion": "neutral",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 29.35,
+      "active_window": "Untitled"
+    },
+    "quote": "Your mind is calm, your pace is steady, and your focus is building. Take a deep breath, trust your thoughts, and let your creativity flow."
+  },
+  {
+    "timestamp": "2025-05-23 16:29:20",
+    "emotion": "neutral",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 26.72,
+      "active_window": "Untitled"
+    },
+    "quote": "You're exactly where you need to be, a calm and steady pace. Keep moving forward, and watch your momentum build slowly but surely."
+  },
+  {
+    "timestamp": "2025-05-23 16:29:55",
+    "emotion": "neutral",
+    "activity": {
+      "typing_speed": 1.89,
+      "mouse_speed": 113.17,
+      "active_window": "Search"
+    },
+    "quote": "You're in a sweet spot of balance today, where clarity and focus are within reach. Trust that your steady pace will lead you to the answers and insights you seek."
+  },
+  {
+    "timestamp": "2025-05-23 16:33:39",
+    "emotion": "happy",
+    "activity": {
+      "typing_speed": 0.08,
+      "mouse_speed": 113.45,
+      "active_window": "Search"
+    },
+    "quote": "You're on a roll! Your curiosity and focus are bringing clarity to your search, keep shining bright with confidence and curiosity."
+  },
+  {
+    "timestamp": "2025-05-23 16:36:37",
+    "emotion": "happy",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 36.0,
+      "active_window": "Untitled"
+    },
+    "quote": "You're on a roll, shining bright with a heart full of joy! May this happy momentum carry you through your tasks with ease and enthusiasm, unlocking your full potential!"
+  },
+  {
+    "timestamp": "2025-06-01 18:17:58",
+    "emotion": "neutral",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 150.17,
+      "active_window": "python"
+    },
+    "quote": "Today is a blank canvas \u2014 make it beautiful."
+  },
+  {
+    "timestamp": "2025-06-02 14:15:33",
+    "emotion": "happy",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 55.67,
+      "active_window": "Untitled"
+    },
+    "quote": "You're radiating joy and positivity! Your creative energy is flowing, and your focus is sharp \u2013 keep shining bright and watch your ideas flourish!"
+  },
+  {
+    "timestamp": "2025-06-02 14:16:11",
+    "emotion": "happy",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 19.95,
+      "active_window": "main.py - emotion_motivator_app - V5 - Visual Studio Code"
+    },
+    "quote": "You're on a roll, and it's contagious! Keep shining your light and spreading joy to those around you."
+  },
+  {
+    "timestamp": "2025-06-02 14:16:50",
+    "emotion": "neutral",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 2.07,
+      "active_window": "main.py - emotion_motivator_app - V5 - Visual Studio Code"
+    },
+    "quote": "You're taking the first step, and that's something to be proud of. You're calm, focused, and ready to take on whatever comes next."
+  },
+  {
+    "timestamp": "2025-06-02 14:17:27",
+    "emotion": "surprise",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 0.0,
+      "active_window": "main.py - emotion_motivator_app - V5 - Visual Studio Code"
+    },
+    "quote": "Surprise is a great catalyst for growth, and you're taking the first step by acknowledging it."
+  },
+  {
+    "timestamp": "2025-06-02 14:18:04",
+    "emotion": "happy",
+    "activity": {
+      "typing_speed": 0.0,
+      "mouse_speed": 0.0,
+      "active_window": "main.py - emotion_motivator_app - V5 - Visual Studio Code"
+    },
+    "quote": "Your joy is contagious, spreading light and positivity wherever you go. Keep shining your bright spirit and know that your happiness inspires others."
+  }
+]

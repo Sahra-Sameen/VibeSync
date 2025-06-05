@@ -1,0 +1,25 @@
+/* Global font style for entire app */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+    font-weight: 400;
+    color: #333333;
+}
+
+/* Make QPushButton text a bit bolder */
+QPushButton {
+    font-weight: 600;
+}
+
+/* Headings (QLabel with a specific class) */
+QLabel#titleLabel {
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+/* Optional: Style QTextEdit */
+QTextEdit {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11pt;
+    color: #444444;
+}
